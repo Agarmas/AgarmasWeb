@@ -13,7 +13,7 @@ Feel free to connect with me through any of the following platforms or send me a
 
 st.markdown("""
 ### Connect with me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-garrido-mass%C3%A9/)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-garrido-masse/)  
 - [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Agarmas/)  
 - [![Kaggle](https://img.shields.io/badge/Kaggle-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/antoniogarridomass)
 """)
