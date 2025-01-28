@@ -9,7 +9,5 @@ st.title("Portfolio")
 
 st.write("""
 ### Projects :briefcase:
-1. **Odoo Coffee Management (with contributors)**\n
-    Developed a custom Odoo module to manage coffee consumption and track stock levels for a coffee management system. Worked with a team of contributors to design and implement the solution.  
-    [View Repository](https://github.com/Agarmas/upocafe)
+- Comming soon
 """)
