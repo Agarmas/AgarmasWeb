@@ -1,2 +1,0 @@
-# AgarmasWeb
-Streamlit web presentation
