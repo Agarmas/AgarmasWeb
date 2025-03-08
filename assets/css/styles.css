@@ -23,10 +23,6 @@ body {
     transition: all 0.3s ease;
 }
 
-.sidebar:hover {
-    background-color: #495057;
-}
-
 .sidebar img {
     width: 150px;
     height: 150px;
